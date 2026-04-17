@@ -1,0 +1,55 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+.contenedor-portafolio{
+    background-color: white;
+    width: 360px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+h1{
+    color: black;
+    font-family: Georgia, Times, ;
+    text-shadow: 2px 2px 4px rgb(241, 72, 129);
+    font-size: 50px;
+}
+   
+ h2{
+font-weight: bold; 
+color: rgb(244, 115, 158);
+    }
+
+    ul{
+        padding: 0;
+        list-style: none;
+    }
+     
+    p{
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium',;
+        color: rgb(166, 164, 164);
+    }
+
+    a{
+        display: block;
+        background-color: rgb(253, 234, 199);
+        color: palevioletred;
+        padding: 10px;
+        margin: 10px;
+        text-decoration: none;
+        border-radius: 5px;
+        font-size: 20px;
+    }
+ a:hover{
+    background-color: rgb(251, 184, 206);
+    transform: scale(1.02);
+ }
+
+ footer{
+    font-size: 20px;
+    font-family: Georgia,;
+ }
